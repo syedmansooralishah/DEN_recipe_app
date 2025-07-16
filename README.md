@@ -13,7 +13,7 @@ This application was developed as part of a **remote internship** with **Digital
 * View recipe details with ingredients and instructions
 * Mark recipes as favorites
 * Simple and elegant UI design
-* Offline support (optional based on implementation)
+* Offline support
 
 ---
 
