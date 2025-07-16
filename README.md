@@ -22,7 +22,7 @@ This application was developed as part of a **remote internship** with **Digital
 * **Flutter** – UI Toolkit
 * **Dart** – Programming Language
 * **Provider / GetX** – State Management
-* **API / Local JSON** – Data Source (depending on your code)
+* **API / Local JSON** – Data Source 
 
 ---
 
